@@ -20,7 +20,7 @@ gem 'jwt', '~> 2.2', '>= 2.2.1'
 gem 'will_paginate'
 gem 'api-pagination'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
